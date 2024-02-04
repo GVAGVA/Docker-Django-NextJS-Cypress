@@ -1,8 +1,6 @@
 # Cypress Docker Django Next.js
 
-Basic example of testing a Full Stack application with Cypress inside of Docker.
-
-See the corresponding blog post: https://johnnymetz.com/posts/dockerize-your-cypress-tests/
+A simple demonstration of using Cypress inside Docker to test a Full Stack application.
 
 ## Docker
 
